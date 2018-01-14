@@ -298,6 +298,9 @@ h1		{
     width: 40%;
     background-color: #00b8e6;
 }
+.skill	{
+		color: #000000;
+}
 .slideshow-container {
     max-width: 1000px;
     position: relative;
