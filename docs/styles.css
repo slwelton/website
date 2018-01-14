@@ -380,6 +380,10 @@ h1		{
 		from {opacity: .4}
 		to {opacity: 1}
 }
+.blog	{			padding-left: 50px;
+						padding-right: 50px;
+
+}
 .Title	{
 						font-size:1.2ems;
 						color: #ffffff
@@ -390,4 +394,14 @@ h1		{
 }
 p		{
 						color: #ffffff;
+}
+.link	{
+		color:#00FFFF;
+}
+.work {
+				padding-left: 50px;
+				padding-right: 50px;
+}
+.linkList	{
+				list-style-type: none;
 }
