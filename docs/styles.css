@@ -405,3 +405,6 @@ p		{
 .linkList	{
 				list-style-type: none;
 }
+#videos {
+				padding: 10px;
+}
