@@ -73,6 +73,10 @@ h1		{
 			font-size: 1.7ems;
 			margin-bottom: 20px;
 }
+	{
+			font-family: sarif;
+			font-size: 1.2ems;
+}
 .topnav	{
 			background-color: black;
 			overflow: hidden;
@@ -242,7 +246,7 @@ h1		{
     background-color: white;
 	padding-top: 5px;
     padding-bottom: 15px;
-	padding-left: 15px; 
+	padding-left: 15px;
 }
 #skillsTitle {
     padding-left: 30px;
@@ -310,7 +314,7 @@ h1		{
 		position: absolute;
 		width: auto;
 		top: 50%;
-		padding: 16px; 
+		padding: 16px;
 		color: white;
 		font-weight: bold;
 		font-size: 30px;
@@ -323,10 +327,10 @@ h1		{
 		top: 50%;
 		width: auto;
 		padding-top: 16px;
-		padding-bottom: 16px; 
+		padding-bottom: 16px;
 		padding-right: 16px;
 		padding-left: 16px;
-		right: 10px; 
+		right: 10px;
 		color: white;
 		font-weight: bold;
 		font-size: 30px;
@@ -342,18 +346,18 @@ h1		{
 }
 .numbertext {
 		color: white;
-		position: absolute; 
+		position: absolute;
 		top: 100%;
 		left: 95%;
 }
 .dot {
 		cursor: pointer;
 		height: 15px;
-		width: 15px; 
-		margin: 0 2px; 
+		width: 15px;
+		margin: 0 2px;
 		background-color: #bbb;
-		border-radius: 50%; 
-		display: inline-block; 
+		border-radius: 50%;
+		display: inline-block;
 		transition: background-color 0.6s ease;
 }
 .dot:hover {
@@ -372,4 +376,17 @@ h1		{
 @keyframes fade {
 		from {opacity: .4}
 		to {opacity: 1}
+}
+.blog h2	{
+						font-family: sarif;
+						font-size:1.2ems;
+						color: #ffffff
+}
+.blog h3	{
+						font-family: sarif;
+						font-size:1ems;
+						color: #ffffff;
+}
+.blog p		{
+						color: #ffffff;
 }
