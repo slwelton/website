@@ -254,6 +254,22 @@ h1		{
 #skillsBar p {
     padding-left: 30px;
 }
+.MCF {
+	width: 85%;
+	background-color: #00b8e6;
+}
+.RH {
+	width: 85%;
+	background-color: #00b8e6;
+}
+.PubSp {
+	width: 85%;
+	background-color: #00b8e6;
+}
+.Git {
+	width: 70%;
+	background-color: #00b8e6;
+}
 .DITA {
     width: 85%;
     background-color: #00b8e6;
