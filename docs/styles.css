@@ -105,6 +105,22 @@ h1		{
 .topnav .icon {
 				display: none;
 }
+.row {
+				display: flex;
+				flex-wrap: wrap;
+				padding: 0 4px;
+
+}
+.column {
+				flex: 50%;
+				max-width: 50%;
+				padding: 0 4px;
+}
+.column img {
+				margin-top: 8px;
+				vertical-align: middle;
+				width: 100%;
+}
 
 @media screen and (max-width: 600px) {
 	.topnav a:not(:first-child) {display: none;}
@@ -112,6 +128,10 @@ h1		{
 		float: right;
 		display: block;
 		margin-bottom: -5px;
+	}
+	.column {
+		flex: 100%;
+		max-width: 100%;
 	}
 }
 
@@ -127,6 +147,13 @@ h1		{
 		display: block;
 		text-align: left;
 		margin-bottom: -2px;
+	}
+}
+
+@media screen and (max-wdith: 800px) {
+	.column {
+		flex: 50%;
+		max-width: 50%;
 	}
 }
 *	{ box-sizing: border-box;
@@ -324,7 +351,6 @@ h1		{
 	z-index: 1;
 }
 .mySlides {
-		display: none;
 		position: relative;
 		z-index: 1;
 }
@@ -334,6 +360,7 @@ h1		{
 		width: auto;
 		top: 50%;
 		padding: 16px;
+		left: 10px;
 		color: white;
 		font-weight: bold;
 		font-size: 30px;
@@ -345,10 +372,7 @@ h1		{
 		position: absolute;
 		top: 50%;
 		width: auto;
-		padding-top: 16px;
-		padding-bottom: 16px;
-		padding-right: 16px;
-		padding-left: 16px;
+		padding: 16px;
 		right: 10px;
 		color: white;
 		font-weight: bold;
