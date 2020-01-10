@@ -6,6 +6,7 @@
 		<link rel="stylesheet" type="text/css" href="styles.css"/>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
 		<script language="javascript" type="text/javascript" src="AboutMe.js"></script>
+    <script language="javascript" type="text/javascript" src="Modal.js"></script>
 	</head>
    <body>
 		<img src="Images/Website Banner.jpg" style="width:100%">
@@ -17,26 +18,30 @@
       <a href="Photography.html" class="active">Photography</a>
 			<a href="javascript:void(0);" class="icon" onclick="makeResponsive()">&#9776;</a>
 		</div>
+    <div id="myModal" class="modal">
+      <span class="close" onclick="document.getElementById('myModal').style.display='none'">&times;</span>
+      <img class="modal-content" id="img-0"/>
+    </div>
     <div class="row">
       <div class="column">
-        <img src="Images/DSC_0039.jpg">
-        <img src="Images/DSC_0533.jpg">
-        <img src="Images/DSC_0355.jpg">
-        <img src="Images/DSC_0574.jpg">
-        <img src="Images/IMG_0169.jpg">
-        <img src="Images/IMG_0138.jpg">
-        <img src="Images/IMG_0193.jpg">
-        <img src="Images/IMG_0243.jpg">
+        <img id="myImg-0" src="Images/DSC_0039.jpg"/>
+        <img id="myImg-1" src="Images/DSC_0533.jpg"/>
+        <img src="Images/DSC_0355.jpg"/>
+        <img src="Images/DSC_0574.jpg"/>
+        <img src="Images/IMG_0169.jpg"/>
+        <img src="Images/IMG_0138.jpg"/>
+        <img src="Images/IMG_0193.jpg"/>
+        <img src="Images/IMG_0243.jpg"/>
       </div>
       <div class="column">
-        <img src="Images/DSC_0337.jpg">
-        <img src="Images/DSC_0134.jpg">
-        <img src="Images/DSC_0772.jpg">
-        <img src="Images/DSC_0847.jpg">
-        <img src="Images/IMG_0093.jpg">
-        <img src="Images/IMG_0126.jpg">
-        <img src="Images/IMG_0226.jpg">
-        <img src="Images/IMG_0008.jpg">
+        <img src="Images/DSC_0337.jpg"/>
+        <img src="Images/DSC_0134.jpg"/>
+        <img src="Images/DSC_0772.jpg"/>
+        <img src="Images/DSC_0847.jpg"/>
+        <img src="Images/IMG_0093.jpg"/>
+        <img src="Images/IMG_0126.jpg"/>
+        <img src="Images/IMG_0226.jpg"/>
+        <img src="Images/IMG_0008.jpg"/>
       </div>
     </div>
     <div id="footer1">
