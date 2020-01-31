@@ -25,7 +25,7 @@ body	{
 		padding: 5px;
 }
 .hero-image {
-		background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("Images/DSC_0694_1_crop.jpg");
+		background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("Images/DSC_0694_1_crop.JPG");
 		height: 50%;
 		background-position: center;
 		background-repeat: no-repeat;
