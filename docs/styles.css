@@ -6,8 +6,13 @@ body	{
 #text {
     text-align: center;
     color: white;
-	padding-bottom: 20px;
-	padding-top: 20px;
+		padding-bottom: 20px;
+		padding-top: 20px;
+}
+.bio {
+		font-style: italic;
+		text-indent: 50px;
+		padding: 50px;
 }
 .fab, .far		{
 			padding: 20px;
