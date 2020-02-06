@@ -2,7 +2,7 @@
 layout: post
 title: How to Record Good Audio for Video
 date: 2017-12-15 12:15:30 + 0800
-image: 04.jpg
+image: 
 tags: [Videos, Audio, Technical Writing, Recording, Editing]
 ---
 Now that my time at OpenText is done, I can start showing off some of the work that I completed while I was there!

@@ -7,6 +7,8 @@ permalink: /about/
 
 <i>Sarah Welton is a Canadian freelance writer and photographer for hire. Having started out in technical writing at various software companies, she now is taking the writing skills she's honed from years of schooling and hobby-writing, and applying them to blogs and other professional writing needs.</i>
 
+
+
 With that out of the way, my name is Sarah Welton and I am a graduate from the English Rhetoric, Media and Professional Communication program at the University of Waterloo. I graduated in June of 2019 with my Honours Bachelor's of Arts, with distinction, and a minor in Management Studies.
 
 I've started teaching myself some basic programming because I feel like it's a valuable skill. This website is my first major project and demonstration of what I've learned so far.
