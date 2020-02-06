@@ -1,6 +1,6 @@
 ---
 title: How to Create Good Technical Videos - The Audio Basics
-date: 2017-12-15 12:15:30 +/- TTTT
+date: 2017-12-15 12:15:30 + 0800
 categories: [Co-ops, Portfolio]
 tags: [Videos, Audio, Technical Writing, Recording, Editing]
 ---
