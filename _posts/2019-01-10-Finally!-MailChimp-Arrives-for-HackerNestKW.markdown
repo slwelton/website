@@ -1,7 +1,8 @@
 ---
+layout: post
 title: Finally! MailChimp Arrives for HackerNestKW
 date: 2019-01-10 18:15:30 + 0800
-categories: [HackerNestKW, Portfolio]
+image: 04.jpg
 tags: [HackerNest, KW Tech, Volunteering, KW Tech Events]
 ---
 Oh happy day.
