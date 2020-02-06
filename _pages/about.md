@@ -1,24 +1,18 @@
 ---
 layout: page
 title: About
-image: 08.jpg
+image: 149-312-2855_37v4_291.jpg
 permalink: /about/
 ---
 
-My name is Natali Anderson. I'm an actress. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+<i>Sarah Welton is a Canadian freelance writer and photographer for hire. Having started out in technical writing at various software companies, she now is taking the writing skills she's honed from years of schooling and hobby-writing, and applying them to blogs and other professional writing needs.</i>
 
-#### Austin scenester...
-<small>2008 - 2017</small>
+With that out of the way, my name is Sarah Welton and I am a graduate from the English Rhetoric, Media and Professional Communication program at the University of Waterloo. I graduated in June of 2019 with my Honours Bachelor's of Arts, with distinction, and a minor in Management Studies.
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+I've started teaching myself some basic programming because I feel like it's a valuable skill. This website is my first major project and demonstration of what I've learned so far.
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+I've spent the months since graduating working as the sole Technical Documentation Specialist at RDM/Deluxe Corporation, handling all of their technical documentation needs. I volunteer regularly in the KW tech community with HackerNestKW, and in between all of the busy-ness going on in my every day, I'm trying to find the time to finish a horror novel.
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+Send me an email or reach out on social media if you have any questions, want to chat a business opportunity, or just want to learn more!
 
-#### La croix you probably...
-<small>1995 - 2000</small>
-
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+You can find many examples of my work on this site, and on my social media profiles.
