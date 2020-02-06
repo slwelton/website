@@ -1,6 +1,6 @@
 ---
 title: Finally! MailChimp Arrives for HackerNestKW
-date: 2019-01-10 18:15:30 +/- TTTT
+date: 2019-01-10 18:15:30 + 0800
 categories: [HackerNestKW, Portfolio]
 tags: [HackerNest, KW Tech, Volunteering, KW Tech Events]
 ---
@@ -16,4 +16,4 @@ I'm not sure if any of the other members of the HackerNest team are as excited a
 
 Please check it out, and subscribe if you're interested in HackerNestKW, or other events going on each month in the KW tech community!
 
-https://mailchi.mp/314082fe27c4/hackernestkw-at-kiite-monday-january-14 
+https://mailchi.mp/314082fe27c4/hackernestkw-at-kiite-monday-january-14
