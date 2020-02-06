@@ -55,8 +55,11 @@
 </div><!-- #nav-wrapper -->
 
 <div class="contact d-flex justify-content-around mt-4">
-  <a href="https://github.com/{{ site.github.username }}" target="_blank">
-    <i class="fab fa-github-alt"></i>
+  <a href="https://medium.com/@sarahcerabellum" target="_blank">
+    <i class="fab fa-medium-m"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/sarah-welton-43a741114/" target="_blank">
+    <i class="fab fa-linkedin-in"></i>
   </a>
   <a href="https://twitter.com/{{ site.twitter.username }}" target="_blank">
     <i class="fab fa-twitter"></i>
@@ -64,8 +67,5 @@
   {% assign email = site.social.email | split: '@' %}
   <a href="javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))">
     <i class="fas fa-envelope"></i>
-  </a>
-  <a href="{{ site.baseurl }}/feed.xml" target="_blank">
-    <i class="fas fa-rss"></i>
   </a>
 </div>
