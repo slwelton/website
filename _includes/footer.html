@@ -15,6 +15,10 @@
           </div>
           <div class="footer-social">
             <ul class="list-reset">
+              {% if site.medium %}
+              <li><a href="{{ site.medium }}">Medium</a></li>
+              {% else %} {% endif %}
+              
               {% if site.facebook %}
               <li><a href="{{ site.facebook }}">Facebook</a></li>
               {% else %} {% endif %}
