@@ -32,6 +32,9 @@
       </li>
       {% else %} {% endif %}
 
+      {% if site.medium %}
+        <a href="{{ site.medium }}" class="social-profiles-link" <i class="fab fa-medium-m"></i></a>
+
        {% if site.twitter %}
       <li class="social-profiles-item">
         <a href="{{ site.twitter }}" class="social-profiles-link"><i class="ion ion-logo-twitter"></i></a>

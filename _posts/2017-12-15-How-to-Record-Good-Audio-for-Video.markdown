@@ -2,9 +2,11 @@
 layout: post
 title: How to Record Good Audio for Video
 date: 2017-12-15 12:15:30 + 0800
-image: 
+image: simone-impei-4_-2HJBQH8Q-unsplash.jpg
 tags: [Videos, Audio, Technical Writing, Recording, Editing]
 ---
+<i> Photo by [Simone Impei](https://unsplash.com/@frizz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/)</i>
+
 Now that my time at OpenText is done, I can start showing off some of the work that I completed while I was there!
 
 A big focus during my co-op was creating videos - specifically, creating videos on how to create videos. While it feels a little redundant, they felt it was the best way to help get their team up to speed with video creation basics.
