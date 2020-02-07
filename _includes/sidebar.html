@@ -59,20 +59,10 @@
   </div>
 
   <div class="widget widget-newsletter">
-    <h3 class="widget-title">Newsletter</h3>
-    <div class="newsletter-subtitle">Get Interesting News</div>
-    <div class="newsletter-text">Receive the latest news via email.</div>
-    <form class="c-newsletter-form validate" action="{% if site.mailchimp %}//{{site.mailchimp}}{% else %}#{% endif %}" method="POST"
-      id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
-      <div class="newsletter-group">
-        <div class="newsletter-group-top">
-          <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
-          <i class="email-icon ion ion-ios-mail"></i>
-          <input class="newsletter-email required email" id="mce-EMAIL" type="text" name="EMAIL" placeholder="E-mail">
-        </div>
-        <input class="newsletter-button" id="mc-embedded-subscribe" type="submit" name="subscribe" value="Subscribe">
-      </div>
-    </form>
+    <h3 class="widget-title">Contact Me</h3>
+    <div class="newsletter-subtitle">Get In Touch About a Project</div>
+    <div class="newsletter-text">Click the button below to send an email.</div>
+    <input class="newsletter-button" id="send-email" type="email" name="send" value="Send an Email">
   </div>
 
   {% if site.instafeed == true %}
