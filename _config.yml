@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
 
-title: English/Art/Code
-description: The home of Welton Writes, which is currently under construction # this means to ignore newlines until "baseurl:"
+title: Welton Writes
+description: English/Art/Code - This is the home of Welton Writes, a blog and portfolio showcase for freelancer Sarah Welton. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://slwelton.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
