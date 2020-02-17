@@ -2,8 +2,8 @@
 layout: post
 title: A Side Project from Toyota Motor Manufacturing Canada (TMMC)
 date: 2018-10-16 12:15:30 + 0800
-image: Start Menu.jpg
-tags: [Technical Writing, Help Guides,]
+image: Start_Menu.jpg
+tags: [Technical Writing, Help Guides, My Work, Side Projects, User Help]
 ---
 So my mom reached out to me a little while ago - apparently, the office at Toyota Motor Manufacturing Canada is switching over to Windows 10, and there's some concerns as to whether or not people are going to handle the change well. For those that aren't the most computer-minded, even the slightest change can be pretty intimidating... And that's not exactly being helped by the lack of any kind of guides or preparation that's being provided to the office workers.
 
