@@ -26,15 +26,15 @@
   <div class="widget widget-social">
     <h3 class="widget-title">Subscribe & Follow</h3>
     <ul class="social-profiles list-reset">
-      {% if site.facebook %}
-      <li class="social-profiles-item">
-        <a href="{{ site.facebook }}" class="social-profiles-link"><i class="ion ion-logo-facebook"></i></a>
-      </li>
-      {% else %} {% endif %}
-
       {% if site.medium %}
       <li class="social=profiles-item">
         <a href="{{ site.medium }}" class="social-profiles-link"><i class="fab fa-medium-m"></i></a>
+      </li>
+      {% else %} {% endif %}
+      
+      {% if site.facebook %}
+      <li class="social-profiles-item">
+        <a href="{{ site.facebook }}" class="social-profiles-link"><i class="ion ion-logo-facebook"></i></a>
       </li>
       {% else %} {% endif %}
 
