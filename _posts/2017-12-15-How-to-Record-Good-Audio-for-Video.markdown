@@ -3,7 +3,7 @@ layout: post
 title: How to Record Good Audio for Video
 date: 2017-12-15 12:15:30 + 0800
 image: simone-impei-4_-2HJBQH8Q-unsplash.jpg
-tags: [Videos, Audio, Technical Writing, Recording, Editing]
+tags: [Videos, Audio, Technical Writing, Recording, Editing, My Work]
 ---
 <i> Photo by [Simone Impei](https://unsplash.com/@frizz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/)</i>
 
