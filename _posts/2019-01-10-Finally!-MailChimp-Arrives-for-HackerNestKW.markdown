@@ -15,6 +15,4 @@ Now, I can add all kinds of formatting and design elements to make everything SO
 
 I'm not sure if any of the other members of the HackerNest team are as excited as I am, but I count this as a big win. I can't wait to keep playing around and make the newsletter better, since I've been doing it for so long at this point.
 
-Please check it out, and subscribe if you're interested in HackerNestKW, or other events going on each month in the KW tech community!
-
-<a href="https://mailchi.mp/314082fe27c4/hackernestkw-at-kiite-monday-january-14">https://mailchi.mp/314082fe27c4/hackernestkw-at-kiite-monday-january-14</a>
+[Please check it out](https://mailchi.mp/314082fe27c4/hackernestkw-at-kiite-monday-january-14), and subscribe if you're interested in HackerNestKW, or other events going on each month in the KW tech community!

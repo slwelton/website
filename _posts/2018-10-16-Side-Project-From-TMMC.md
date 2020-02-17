@@ -15,4 +15,4 @@ I got rewarded with a gas card for my efforts, and knowing that the people in th
 
 Now, to wait and see if there's any kind of feedback, or if this is something that's useful to them.
 
-<a href="../assets/Windows 10 Start Guide.pdf"> Click here to view the Windows 10 Start Guide I created!</a>
+Click [here](../assets/Windows 10 Start Guide.pdf) to view the Windows 10 Start Guide I created!
