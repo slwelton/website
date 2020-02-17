@@ -11,10 +11,8 @@ permalink: /about/
 
 With that out of the way, my name is Sarah Welton and I am a graduate from the English Rhetoric, Media and Professional Communication program at the University of Waterloo. I graduated in June of 2019 with my Honours Bachelor's of Arts, with distinction, and a minor in Management Studies.
 
-I've started teaching myself some basic programming because I feel like it's a valuable skill. This website is my first major project and demonstration of what I've learned so far.
+Since graduation, I've been working as the sole Technical Documentation Specialist at RDM/Deluxe Corporation, handling all of their technical documentation needs. I volunteer regularly in the KW tech community with HackerNestKW, and in between all of the busy-ness going on in my every day, I'm trying to find the time to finish a horror novel.
 
-I've spent the months since graduating working as the sole Technical Documentation Specialist at RDM/Deluxe Corporation, handling all of their technical documentation needs. I volunteer regularly in the KW tech community with HackerNestKW, and in between all of the busy-ness going on in my every day, I'm trying to find the time to finish a horror novel.
+I initially started this website as a coding demonstration, for showing off the web development skills I learned from some basic HTML5, JavaScript, and CSS courses. Now, this website is based off of a Jekyll theme, with some tweaks, and is the home for all of my writing samples, photography, and contact information. 
 
-Send me an email or reach out on social media if you have any questions, want to chat a business opportunity, or just want to learn more!
-
-You can find many examples of my work on this site, and on my social media profiles.
+Send me an email or reach out on social media if you have any questions, want to chat about a business opportunity, or just want to learn more!
