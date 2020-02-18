@@ -4,6 +4,7 @@ title: Thanks for Everything, Kin Canada!
 date: 2016-07-27 19:03:30 + 0800
 image:
 tags: [Writing Samples, Public Relations, My Work]
+comments: true
 ---
 So, it took a while to get here, but I managed to do it. I got through my first unofficial co-op term, without having to deal with the insane stress of being unemployed.
 
@@ -26,4 +27,4 @@ Here's some links to the materials I created for the Kin Canada Milk for Britain
 
 Again, I'm so glad that I got the chance to be involved in this project, and get the opportunity to learn and fund my education at the same time.
 
-I'm hoping that the experience I gained here will help a ton moving forward into the next round of WaterlooWorks! For now, there's another school term to get through. 
+I'm hoping that the experience I gained here will help a ton moving forward into the next round of WaterlooWorks! For now, there's another school term to get through.

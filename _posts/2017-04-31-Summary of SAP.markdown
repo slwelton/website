@@ -4,6 +4,7 @@ title: A Summary of SAP
 date: 2017-04-31 15:15:30 + 0800
 image:
 tags: [Videos, Writing Samples, Technical Writing, Recording, Editing, My Work]
+comments: true
 ---
 Just finished with my first co-op term at SAP. I learned so much that it's kind of sad to have to say goodbye... Claudia and Aaron were such a huge help and so supportive as managers throughout all of the last four months, and there was such a good group of co-ops. It was great to see everyone always getting along, and making an effort to be involved in the activities that the social committee kept putting together.
 

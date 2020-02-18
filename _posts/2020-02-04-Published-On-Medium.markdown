@@ -4,6 +4,7 @@ title: Just Got Published in a Medium Publication!
 date: 2020-02-04 09:30:30 + 0800
 image:
 tags: [Blog, My Work, Side Projects, Writing Samples]
+comments: true
 ---
 I can't believe that I'm writing this right now, but I just got published on Medium, in the rather well-known publication [P.S. I Love You](https://psiloveyou.xyz/)!
 
@@ -15,4 +16,4 @@ If you want to read the piece for yourself, you can check it out [here](https://
 
 I personally am quite proud of this bit of writing - I'm excited to see where else it might take me.
 
-Feel free to leave a response on Medium if you like it, too.
+Feel free to leave a response on Medium if you like it, too, or leave a comment below.
