@@ -327,7 +327,6 @@
       .article-date {
         font-size: 12px;
         color: rgba($text, .8);
-        text-shadow: 2px 2px 3px $black;
       }
       .article-tag {
         .tag {
@@ -357,7 +356,6 @@
       a {
         font-size: 24px;
         color: $text;
-        text-shadow: 2px 2px 3px $black;
       }
     }
     .article-excerpt {
@@ -365,7 +363,6 @@
       font-size: 15px;
       line-height: 25px;
       color: $gray-blue;
-      text-shadow: 2px 2px 3px $black;
     }
   }
 }
