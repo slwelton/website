@@ -2,7 +2,7 @@
 layout: post
 title: A Summary of SAP
 date: 2017-04-31 15:15:30 + 0800
-image: 1200px-SAP_2011_logo.svg.png
+image: 1200px-SAP_2011_logo.png
 tags: [Videos, Writing Samples, Technical Writing, Recording, Editing, My Work]
 comments: true
 ---
