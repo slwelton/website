@@ -21,8 +21,11 @@ But it'd be nice to see that change with this documentary and all of its supplem
 Here's some links to the materials I created for the Kin Canada Milk for Britain documentary launch:
 
 [The Milk for Britain Story - A Testament to Kin and Canada](http://www.kincanada.ca/files/www/Milk_for_Britain/The_Milk_for_Britain_Story.pdf)
+
 [Media Backgrounder - The Milk for Britain Campaign](http://www.kincanada.ca/files/www/Milk_for_Britain/Milk_for_Britain_-_Media_Backgrounder.pdf)
+
 [Milk for Britain Fact Sheet](../assets/Milk_for_Britain_Fact_Sheet_-_Kin_Canada_20160729.pdf)
+
 [Club Promotion Opportunities Sheet, News Release Template, and News Release Tip Sheet for Members](http://www.kincanada.ca/resource-library?parent_id=655)
 
 Again, I'm so glad that I got the chance to be involved in this project, and get the opportunity to learn and fund my education at the same time.
