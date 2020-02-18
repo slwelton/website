@@ -2,7 +2,7 @@
 layout: post
 title: Thanks for Everything, Kin Canada!
 date: 2016-07-27 19:03:30 + 0800
-image:
+image: 1200px-Kin_Canada_Logo.svg.png
 tags: [Writing Samples, Public Relations, My Work]
 comments: true
 ---

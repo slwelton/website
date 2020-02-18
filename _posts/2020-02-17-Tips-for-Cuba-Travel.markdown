@@ -2,7 +2,7 @@
 layout: post
 title: 3 Tips for a Great "Do-ers" Trip to Cuba
 date: 2020-02-17 19:03:30 + 0800
-image:
+image: DSC_0438.png
 tags: [Writing Samples, Travel, My Work, Photography]
 comments: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: A Summary of SAP
 date: 2017-04-31 15:15:30 + 0800
-image:
+image: 1200px-SAP_2011_logo.svg.png
 tags: [Videos, Writing Samples, Technical Writing, Recording, Editing, My Work]
 comments: true
 ---
@@ -29,6 +29,7 @@ I wasn't there quite long enough to make getting set up in SAP's blogging system
 Then there were the videos. Again, I got to complete 2 different ones during my term:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F4t5O6zX7wE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/co3zkOEii7A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
