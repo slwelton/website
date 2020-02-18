@@ -31,7 +31,13 @@
         <a href="{{ site.medium }}" class="social-profiles-link"><i class="fab fa-medium-m"></i></a>
       </li>
       {% else %} {% endif %}
-      
+
+      {% if site.deviantart %}
+      <li class="social=profiles-item">
+        <a href="{{ site.deviantart }}" class="social-profiles-link"><i class="fab fa-deviantart"></i></a>
+      </li>
+      {% else %} {% endif %}
+
       {% if site.facebook %}
       <li class="social-profiles-item">
         <a href="{{ site.facebook }}" class="social-profiles-link"><i class="ion ion-logo-facebook"></i></a>
