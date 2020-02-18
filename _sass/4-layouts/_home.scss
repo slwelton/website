@@ -211,15 +211,12 @@
     .article-tag {
       .tag {
         font-size: 12px;
-        background: rgba(16, 16, 16, 0.5);
-
       }
     }
     .article-date {
       .date {
         font-size: 12px;
         color: rgba($text, .8);
-        background: rgba(16, 16, 16, 0.5);
 
       }
     }
@@ -228,10 +225,8 @@
       font-size: 30px;
       line-height: 30px;
       font-weight: normal;
-      background: rgba(16, 16, 16, 0.5);
       a {
         color: $text;
-        background: rgba(16, 16, 16, 0.5);
         transition: $global-transition;
       }
     }
@@ -240,7 +235,6 @@
       margin-bottom: 30px;
       font-size: 14px;
       line-height: 23px;
-      background: rgba(16, 16, 16, 0.5);
     }
     .button {
       font-size: 14px;
