@@ -2,10 +2,12 @@
 layout: post
 title: Just Got Published in a Medium Publication!
 date: 2020-02-04 09:30:30 + 0800
-image:
+image: denys-nevozhai-z0nVqfrOqWA-unsplash.jpg
 tags: [Blog, My Work, Side Projects, Writing Samples]
 comments: true
 ---
+<i>Photo by [Denys Nevozhai](https://unsplash.com/@dnevozhai?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</i>
+
 I can't believe that I'm writing this right now, but I just got published on Medium, in the rather well-known publication [P.S. I Love You](https://psiloveyou.xyz/)!
 
 I decided to write an article on a bit of a whim and submit to them, with knowing that open submissions for writers were opening up soon - and lo and behold, I made it!
