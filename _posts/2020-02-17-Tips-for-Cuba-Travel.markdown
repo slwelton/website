@@ -42,7 +42,7 @@ Hell yeah! Sign me up!
 
 While my stomach is still a little off after returning home to Canada, I still have no regrets on taking the Dukoral - because I know how much worse it can be if you don't try to have any kind of protection for your stomach at all.
 
-If you're like me and have a sensitive stomach, or just want to avoid any unpleasant surprises from your trip once you're back, make sure you do what you can to protect yourself.
+If you're like me and have a sensitive stomach, or just want to avoid any unpleasant surprises from your trip once you're back, make sure you do what you can to protect yourself. The last thing you want is to have your trip ruined by stomach issues when you're supposed to be enjoying the weather, and everything else that Cuba has to offer. 
 
 After all, it's better to have it and not need it, than need it and not have it.
 
