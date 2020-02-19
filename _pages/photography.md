@@ -40,7 +40,11 @@ permalink: /photography/
 
 <img src="../img/IMG_0008.JPG"/>
 
-$(document).on('click', '[data-toggle="lightbox"]', function(event) {
+<script>
+
+  $(document).on('click', '[data-toggle="lightbox"]', function(event) {
                 event.preventDefault();
                 $(this).ekkoLightbox();
             });
+            
+</script>
