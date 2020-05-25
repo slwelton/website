@@ -8,7 +8,7 @@ comments: true
 ---
 <i>Welcome to Honestly Unmotivated Game Reviews, a new series by a textbook casual gamer. Aiming to prompt an honest discussion about the highlights and lowlights of different games, both new and old, while completely unmotivated by any kind of paid sponsorship: this is Honestly Unmotivated Game Reviews.</i>
 
-#First Impressions#
+# First Impressions #
 Ah, Okami... Probably one of the prettiest but weirdest games I've ever played, pairing a beautiful, painterly art style and a fun story with dirty humour and good gameplay in a combination that's really hard to put down.
 
 <img src="../img/Okami_Rao.jpg"/>
@@ -26,7 +26,7 @@ It's beautiful, the gameplay is unique, and the story is compelling.
 
 That being said, it's time to go more in-depth - if you want to avoid spoilers, you should skip ahead to the end of this review.
 
-#Story - 4/5#
+# Story - 4/5 #
 I'll be the first to say that I absolutely loved the story in this game. Japanese mythology with a twist: what's not to love?
 
 I was unfamiliar with the legend of Nagi when I first started playing, or the mythology of Amaterasu, some stories were familiar, such as that of the Princess Kaguya, the girl born from a bamboo shoot who eventually returns to her home on the moon.
@@ -39,7 +39,7 @@ Other moments landed a lot better: the strained relationship with Issun and his 
 
 Overall, the story is fun. The characters are great, the jokes are enjoyable, and it's a great world to spend time in - I just can't say that I feel it breaks any major ground as far as storytelling goes.
 
-#Gameplay - 3.5/5#
+# Gameplay - 3.5/5 #
 The basic mechanics of the game are pretty simple: you are the goddess Amaterasu, on a mission to save earth in the form of a white wolf. Fighting monsters, solving puzzles, and doing some platforming all come with the territory.  
 
 The fight mechanics can be used for a simple hack-and-slash button pounding, though different weapons and their equipped location will change how fights play out. A reflector in the main slot offers a quick way to rack up damage up-close; in the sub slot, it becomes a shield that can restore health through carefully-timed activations. Rosaries offer a bit more range, sacrificing some damage in the process, turning into a ranged blast in the sub slot. Glaives provide less damage than reflectors, though more than rosaries, quickly escalating to devastating hits if the player charges up each hit. The different weapons add a different level of complexity and customization to suit a player's preferred play-style.
@@ -67,12 +67,14 @@ Aside from that, there are plenty of secondary activities and collections to kee
 
 It could be that the controls are a lot better on the original console, making the Switch just a poor choice of port - but for this version of the game, gameplay will have to sit at a 3.5.
 
-#Bonus Point - Art Style#
+# Bonus Point - Art Style #
 This game's bonus point is definitely the art style. The entire world is depicted as if it was painted in a traditional Japanese brushwork style. It's downright gorgeous to look at, and I found myself taking tons of screenshots as I worked my way through, just because of how gorgeous I found the game.
 
 <img src="../img/Okami_Pretty.jpg"/>
 
-#Overall - 4.5/5#
+# Overall - 4.5/5 #
 I can't quite give Okami on the Nintendo Switch a perfect score, because of some of the issues I had with the gameplay, but it's pretty damn close to perfect for the experience it offers. It's obvious that so much care and attention to detail went into crafting the game's world and art, making it hard not to love the game.
 
 If you're considering giving the game a shot, you won't regret it - just make sure you bring some patience for the Switch's controls!
+
+Have you played Okami? Do you have a differing opinion? Or do you just have an idea for a game you want me to review next? Leave a comment below!
