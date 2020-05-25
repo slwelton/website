@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Honestly Unmotivated Game Reviews: Okami HD for Nintendo Switch
+title: Honestly Unmotivated Game Reviews - Okami HD for Nintendo Switch
 date: 2020-05-24 21:10:32 + 0800
 image: Okami_Face.jpg
 tags: [My Work, Blog, Game Reviews, Writing Samples]
