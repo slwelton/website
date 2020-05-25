@@ -53,7 +53,7 @@ The mechanic is great in theory, and when it works well, it feels amazing and oh
 But it can also lead to great amounts of frustration: overlapping items and similar inputs can make the experience get clunky fast, especially with the Switch's already finnicky input system. I opted out of motion controls, due to plenty of frustration with other games' clunky motion gameplay (looking at you, Mario Party...), and chose to struggle my way through with the imprecise JoyCons.
 
 <img src="../img/Okami_Surprise.jpg"/>
-<i>I know guys, I'm sorry.<i>
+<i>I know guys, I'm sorry.</i>
 
 Some segments took a frustratingly-long time to pass through, the most notable being the section where the player has to stop a log hurtling downstream by drawing lines from the log to the riverbank. The input for the brush technique in this section was maddeningly over-sensitive, leaving me falling just short of success multiple times as I fought with the controls.
 
