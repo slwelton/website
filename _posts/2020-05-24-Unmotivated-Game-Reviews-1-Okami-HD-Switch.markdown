@@ -69,7 +69,7 @@ While the enemy designs are well-done, it can still get a little boring fighting
 
 Aside from that, there are plenty of secondary activities and collections to keep a die-hard completionist busy with this one - stray beads, animal feeding, fishing, revenge lists, and treasure all add plenty more gameplay to round off the entire experience. The game world isn't huge, but there are enough elements that are only unlocked by story progression that open up new areas for exploration in older areas, making the game feel a lot fuller.
 
-It could be that the controls are a lot better on the original console, making the Switch just a poor choice of port - but for this version of the game, gameplay will have to sit at a 3.5.
+It could be that the controls are a lot better on the original console, making the Switch just a poor choice of port - but for this version of the game, gameplay will have to sit at a 3.
 
 # Bonus Point - Art Style #
 This game's bonus point is definitely the art style. The entire world is depicted as if it was painted in a traditional Japanese brushwork style. It's downright gorgeous to look at, and I found myself taking tons of screenshots as I worked my way through, just because of how gorgeous I found the game.
