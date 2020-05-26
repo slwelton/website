@@ -39,14 +39,18 @@ Other moments landed a lot better: the strained relationship with Issun and his 
 
 Overall, the story is fun. The characters are great, the jokes are enjoyable, and it's a great world to spend time in - I just can't say that I feel it breaks any major ground as far as storytelling goes.
 
-# Gameplay - 3.5/5 #
+# Gameplay - 3/5 #
 The basic mechanics of the game are pretty simple: you are the goddess Amaterasu, on a mission to save earth in the form of a white wolf. Fighting monsters, solving puzzles, and doing some platforming all come with the territory.  
 
 The fight mechanics can be used for a simple hack-and-slash button pounding, though different weapons and their equipped location will change how fights play out. A reflector in the main slot offers a quick way to rack up damage up-close; in the sub slot, it becomes a shield that can restore health through carefully-timed activations. Rosaries offer a bit more range, sacrificing some damage in the process, turning into a ranged blast in the sub slot. Glaives provide less damage than reflectors, though more than rosaries, quickly escalating to devastating hits if the player charges up each hit. The different weapons add a different level of complexity and customization to suit a player's preferred play-style.
 
+<img src="../img/Okami_Combat.jpg"/>
+
 Though, to make progress through any of the game's fights or puzzles, players will have to make careful use of the game's core mechanic: the Celestial Brush Techniques.
 
-Using motion controls or a JoyCon's joystick, players will have to draw specific brush strokes over top of their enemies or their environment, according to pre-set patterns. Draw the correct pattern to summon fire, move water, or just blow up an enemy or an obstacle with a bomb.
+Using motion controls or a JoyCon's joystick, players will have to draw specific brush strokes over top of their enemies or their environment, according to pre-set patterns. Draw the correct pattern to slash rocks, summon fire, move water, or just blow up an enemy or an obstacle with a bomb.
+
+<img src="../img/Okami_Brush.jpg"/>
 
 The mechanic is great in theory, and when it works well, it feels amazing and oh-so fun: landing a successful combo of brush techniques and basic attacks to wipe out an enemy in seconds flat is one of the game's great joys.
 
@@ -72,9 +76,11 @@ This game's bonus point is definitely the art style. The entire world is depicte
 
 <img src="../img/Okami_Pretty.jpg"/>
 
-# Overall - 4.5/5 #
+# Overall - 4/5 #
 I can't quite give Okami on the Nintendo Switch a perfect score, because of some of the issues I had with the gameplay, but it's pretty damn close to perfect for the experience it offers. It's obvious that so much care and attention to detail went into crafting the game's world and art, making it hard not to love the game.
 
 If you're considering giving the game a shot, you won't regret it - just make sure you bring some patience for the Switch's controls!
+
+
 
 Have you played Okami? Do you have a differing opinion? Or do you just have an idea for a game you want me to review next? Leave a comment below!
