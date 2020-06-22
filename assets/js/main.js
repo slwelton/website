@@ -62,7 +62,7 @@ function init(){
         onWindowScroll
     );
 
-    // Check the pagination style    
+    // Check the pagination style
     if(_$body.attr("data-pagination-style")){
         _paginationStyle = _$body.attr("data-pagination-style");
     }
@@ -85,7 +85,7 @@ function init(){
             LR.images[i].caption = "";
         }
         // Create the individual thumbnail partial
-        LR.images[i].$thumbnail = $('<div class="thumbnail not-loaded" data-large-img="images/large/'+ LR.images[i].exportFilename +'.jpg" data-id="ID'+ LR.images[i].id +'" data-title="' + LR.images[i].title + '" data-caption="' + LR.images[i].caption + '" data-native-width="' + LR.images[i].largeWidth + '" data-native-height="' + LR.images[i].largeHeight + '"><img class="thumb-img" src="" /></div>');
+        LR.images[i].$thumbnail = $('<div class="thumbnail not-loaded" data-large-img="../img/large/'+ LR.images[i].exportFilename +'.jpg" data-id="ID'+ LR.images[i].id +'" data-title="' + LR.images[i].title + '" data-caption="' + LR.images[i].caption + '" data-native-width="' + LR.images[i].largeWidth + '" data-native-height="' + LR.images[i].largeHeight + '"><img class="thumb-img" src="" /></div>');
         LR.images[i].$thumbnail.data("index", i);
         // Isolate the actual thumbnail image
         LR.images[i].$thumbnailImg = $(LR.images[i].$thumbnail.find("img")[0]);
@@ -110,14 +110,14 @@ function init(){
 
     // Render the page based on the user-selected pagination style
     switch(_paginationStyle){
-        
+
         case "none":
             renderAllThumbnails();
             break;
 
         case "scroll":
             initLoadOnScroll();
-            break; 
+            break;
     }
 
     function getTargetRowHeight() {
@@ -133,7 +133,7 @@ function init(){
             );
             LR.images[i].$thumbnailImg.attr(
                 "src",
-                "images/thumbnails/" + LR.images[i].exportFilename + ".jpg"
+                "../img/thumbnails/" + LR.images[i].exportFilename + ".jpg"
             );
             _lastLoadedThumbIndex = LR.images[i].index;
         }
@@ -224,9 +224,9 @@ function init(){
                 );
                LR.images[i].$thumbnailImg.attr(
                 "src",
-                "images/thumbnails/" + LR.images[i].exportFilename + ".jpg"
+                "../img/thumbnails/" + LR.images[i].exportFilename + ".jpg"
                 );
-                _lastLoadedThumbIndex = LR.images[i].index; 
+                _lastLoadedThumbIndex = LR.images[i].index;
             }
         }
 
@@ -279,7 +279,7 @@ function init(){
                 );
                 LR.images[i].$thumbnailImg.attr(
                     "src",
-                    "images/thumbnails/" + LR.images[i].exportFilename + ".jpg"
+                    "../img/thumbnails/" + LR.images[i].exportFilename + ".jpg"
                 );
                 _lastLoadedThumbIndex = LR.images[i].index;
             }
@@ -301,12 +301,12 @@ function init(){
                 );
                 LR.images[i].$thumbnailImg.attr(
                     "src",
-                    "images/thumbnails/" + LR.images[i].exportFilename + ".jpg"
+                    "../img/thumbnails/" + LR.images[i].exportFilename + ".jpg"
                 );
                 _lastLoadedThumbIndex = LR.images[i].index;
             }
 
-            
+
         }
     }
 
@@ -394,7 +394,7 @@ function init(){
         "click",
         showNextImage
     );
-    
+
     if(_autoViewThumb){
         showLoupeViewForThumbnail(_autoViewThumb, true);
     }
@@ -603,10 +603,10 @@ function init(){
 
     function onLoupeKeyDown(e){
         switch(e.keyCode){
-            case 39: 
+            case 39:
                 showNextImage();
                 break;
-            case 37: 
+            case 37:
                 showPrevImage();
                 break;
         }
