@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang = "en">
  {% include photoshead.html %}
+ {% include header.html %}
+ {% include loader.html %}
     <body class=" row-spacing-lg" data-pagination-style="scroll" data-target-row-height="300">
                         <div id="thumbnailContainer">
             <div class="thumbnails"></div>
@@ -83,5 +85,7 @@
         <script>window.jQuery || document.write('<script src="../assets/js/libs/jquery-1.10.2.min.js"><\/script>')</script>
         <script src="../assets/js/libs/jquery.velocity.min.js"></script>
         <script src="../assets/js/main.js"></script>
+        {% include footer.html %}
+        {% include javascripts.html %}
     </body>
 </html>
