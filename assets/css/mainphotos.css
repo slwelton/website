@@ -10,7 +10,7 @@ img {
     vertical-align: middle;
 }
 
-/**
+
 html, body {
     margin: 0;
     padding: 0;
@@ -18,7 +18,7 @@ html, body {
     font-family: sans-serif;
    -webkit-font-smoothing: antialiased;
 }
-*/
+
 
 body {
     overflow-x: hidden;
@@ -28,7 +28,7 @@ body.loupe-active {
     overflow: hidden;
 }
 
-/**
+
 header {
     display: none;
     position: absolute;
@@ -287,7 +287,6 @@ header ul.gallery-meta li {
     padding-top: 16px;
 }
 
-/**
 .has-header #thumbnailContainer {
     position: relative;
     padding: 114px 0px 0px 0px;
@@ -295,7 +294,6 @@ header ul.gallery-meta li {
    -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*/
 
 div.thumbnails {
     overflow: hidden;
@@ -725,7 +723,7 @@ div.thumbnail img {
 }
 
 @media screen and (max-width: 768px) {
-/**
+    
     header p.title {
         font-size: 18px;
     }
@@ -733,7 +731,7 @@ div.thumbnail img {
     .has-header #thumbnailContainer {
         padding: 100px 0 0 0;
     }
-*/
+    
     #loupeContainer {
         padding: 45px 35px 100px 35px;
         font-size: 11px;
@@ -763,7 +761,7 @@ div.thumbnail img {
 }
 
 @media screen and (max-width: 568px) {
-/**
+    
     header {
         padding-bottom: 20px;
         height: auto;
@@ -806,7 +804,7 @@ div.thumbnail img {
     header ul.gallery-meta {
         display: none;
     }
-*/
+    
     #pageNav {
         display: inline-block;
         float: none;
