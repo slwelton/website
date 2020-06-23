@@ -12,11 +12,6 @@ img {
 
 
 html, body {
-    margin: 0;
-    padding: 0;
-    background-color: #000000;
-    font-family: sans-serif;
-   -webkit-font-smoothing: antialiased;
 }
 
 
@@ -28,7 +23,7 @@ body.loupe-active {
     overflow: hidden;
 }
 
-
+/*
 header {
     display: none;
     position: absolute;

@@ -1,30 +1,26 @@
-/**
+
 html {
-  background-color: #000000 !important;
-  color: inherit;
+  background-color: inherit;
 }
-*/
+
 .thumb-img {
-  border-color: #000000 !important;
+  border-color: $black;
 }
 
 #loupeContainer div.background {
-  background-color: #000000 !important;
+  background-color: $inherit;
+}
+
+
+header div.background {
   color: inherit;
 }
 
-/**
-header div.background {
-  background-color: #000000 !important;
-  color: inherit;
-}
-*/
 .custom-colorable {
-  fill: #A0A0A0 !important;
+  fill: #A0A0A0;
 }
-/**
+
 body {
-  background-color: #000000 !important;
-  color: #828282 !important;
+  background-color: $blue-black;
+  color: #828282;
 }
-*/
