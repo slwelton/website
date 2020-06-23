@@ -379,7 +379,7 @@ div.thumbnail img {
     padding: 45px;
 }
 
-#loupeContainer div.background {
+#loupeContainer div.photobackground {
     position: absolute;
     top: 0;
     left: 0;
@@ -485,7 +485,7 @@ div.thumbnail img {
     padding: 0;
 }
 
-#loupeMeta p.title {
+#loupeMeta p.phototitle {
     margin: 0 auto 5px auto;
     padding: 0;
     max-width: 80%;
@@ -496,7 +496,7 @@ div.thumbnail img {
     font-weight: bold;
 }
 
-#loupeMeta p.caption {
+#loupeMeta p.photocaption {
     margin: 0 auto;
     padding: 0;
     max-width: 80%;
@@ -524,7 +524,7 @@ div.thumbnail img {
     display: none;
 }
 
-#loupeContainer div.side-navigation div.button {
+#loupeContainer div.photoside-navigation div.photobutton {
     display: block;
     width: 50px;
     height: 50px;
@@ -675,7 +675,7 @@ div.thumbnail img {
         height: 150px;
     }
 
-    #loupeMeta p.title {
+    #loupeMeta p.phototitle {
         margin: 0 auto 10px auto;
         width: 75%;
         max-height: 2.6em;
@@ -685,7 +685,7 @@ div.thumbnail img {
         line-height: 1.3em;
     }
 
-    #loupeMeta p.caption {
+    #loupeMeta p.photocaption {
         margin: 0 auto;
         padding: 0;
         width: 75%;
@@ -707,14 +707,14 @@ div.thumbnail img {
         height: 120px;
     }
 
-    #loupeMeta p.title {
+    #loupeMeta p.phototitle {
         width: 85%;
         max-height: 2.6em;
         overflow: hidden;
         font-size: 1.1em;
     }
 
-    #loupeMeta p.caption {
+    #loupeMeta p.photocaption {
         width: 85%;
         max-height: 5.2em;
         overflow: hidden;
@@ -723,7 +723,7 @@ div.thumbnail img {
 }
 
 @media screen and (max-width: 768px) {
-    
+
     header p.title {
         font-size: 18px;
     }
@@ -731,7 +731,7 @@ div.thumbnail img {
     .has-header #thumbnailContainer {
         padding: 100px 0 0 0;
     }
-    
+
     #loupeContainer {
         padding: 45px 35px 100px 35px;
         font-size: 11px;
@@ -741,7 +741,7 @@ div.thumbnail img {
         height: 100px;
     }
 
-    #loupeMeta p.title {
+    #loupeMeta p.phototitle {
         white-space: nowrap;
         text-overflow: ellipsis;
         width: 100%;
@@ -750,7 +750,7 @@ div.thumbnail img {
         font-size: 1em;
     }
 
-    #loupeMeta p.caption {
+    #loupeMeta p.photocaption {
         white-space: nowrap;
         text-overflow: ellipsis;
         width: 100%;
@@ -761,7 +761,7 @@ div.thumbnail img {
 }
 
 @media screen and (max-width: 568px) {
-    
+
     header {
         padding-bottom: 20px;
         height: auto;
@@ -804,7 +804,7 @@ div.thumbnail img {
     header ul.gallery-meta {
         display: none;
     }
-    
+
     #pageNav {
         display: inline-block;
         float: none;
@@ -823,7 +823,7 @@ div.thumbnail img {
         height: 80px;
     }
 
-    #loupeMeta p.title {
+    #loupeMeta p.phototitle {
         white-space: nowrap;
         text-overflow: ellipsis;
         width: 100%;
@@ -831,7 +831,7 @@ div.thumbnail img {
         overflow: hidden;
     }
 
-    #loupeMeta p.caption {
+    #loupeMeta p.photocaption {
         white-space: nowrap;
         text-overflow: ellipsis;
         width: 100%;

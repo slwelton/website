@@ -12,7 +12,7 @@ function init(){
         _$thumbnailsParent = $("#thumbnailContainer div.thumbnails"),
         _$thumbnails = [],
         _$loupeContainer = $("#loupeContainer"),
-        _$loupeBackground = $("#loupeContainer div.background"),
+        _$loupeBackground = $("#loupeContainer div.photobackground"),
         _$loupeImageContainer = $("#loupeContainer div.image-container"),
         _$loupeInfoContainer = $("#loupeContainer div.info-container"),
         _$loupeMeta = $("#loupeMeta"),
