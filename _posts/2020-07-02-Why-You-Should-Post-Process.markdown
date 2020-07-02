@@ -49,11 +49,11 @@ Collections are also incredibly easy to set up:
 5. (Optional) To create your new Collection inside an existing Collection Set in your catalog, under *Location*, click the *Inside a Collection Set* option.
 6. (Optional) Under *Options*, specify any additional options for your new Collection:
 
-  a. To include any photos you currently have selected from your catalog in your new Collection, click the *Include Selected Photos* option.
+  >a. To include any photos you currently have selected from your catalog in your new Collection, click the *Include Selected Photos* option.
 
-  To include those photos as Lightroom copies of the original photos, click the *Make Virtual Copies* option.
+  >To include those photos as Lightroom copies of the original photos, click the *Make Virtual Copies* option.
 
-  b. To set your new Collection as the Target Collection for quickly adding photos when browsing your catalog, click the *Set as Target Collection* option.
+  >b. To set your new Collection as the Target Collection for quickly adding photos when browsing your catalog, click the *Set as Target Collection* option.
 
 7. To finish creating your new Collection, click *Create*.
 
@@ -67,4 +67,4 @@ Hard for someone to claim that they didn't steal your image when your name is em
 
 There are many other reasons to get into post-processing your photos, but these are some of the main ones that I've personally found so far.
 
-Do you have an opinion on post-processing? Do you have a program that you prefer over Lightroom? Leave a comment below. 
+Do you have an opinion on post-processing? Do you have a program that you prefer over Lightroom? Leave a comment below.
