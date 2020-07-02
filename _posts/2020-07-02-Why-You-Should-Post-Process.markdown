@@ -48,12 +48,11 @@ Collections are also incredibly easy to set up:
 4. In the *Name* field, enter the name for your new Collection.
 5. (Optional) To create your new Collection inside an existing Collection Set in your catalog, under *Location*, click the *Inside a Collection Set* option.
 6. (Optional) Under *Options*, specify any additional options for your new Collection:
+      a. To include any photos you currently have selected from your catalog in your new Collection, click the *Include Selected Photos* option.
 
-  >a. To include any photos you currently have selected from your catalog in your new Collection, click the *Include Selected Photos* option.
+      To include those photos as Lightroom copies of the original photos, click the *Make Virtual Copies* option.
 
-  >To include those photos as Lightroom copies of the original photos, click the *Make Virtual Copies* option.
-
-  >b. To set your new Collection as the Target Collection for quickly adding photos when browsing your catalog, click the *Set as Target Collection* option.
+      b. To set your new Collection as the Target Collection for quickly adding photos when browsing your catalog, click the *Set as Target Collection* option.
 
 7. To finish creating your new Collection, click *Create*.
 
