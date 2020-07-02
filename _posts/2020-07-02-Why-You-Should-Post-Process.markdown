@@ -54,7 +54,7 @@ Collections are also incredibly easy to set up:
 
       b. To set your new Collection as the Target Collection for quickly adding photos when browsing your catalog, click the *Set as Target Collection* option.
 
-7. To finish creating your new Collection, click *Create*.
+7\. To finish creating your new Collection, click *Create*.
 
 Done! You easily have a new Collection available for grouping together similar photos in Lightroom. Time for a better way to handle photo organization.
 
