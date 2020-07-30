@@ -8,7 +8,7 @@ comments: true
 ---
 When I first started out with taking photos with my DSLR, I wasn't doing anything to edit or fine-tune my results. Usually, whatever I got out of my camera was what I would share.
 
-Then, I decided to give Lightroom a shot, and I haven't looked back since. The images I've been able to produce with some subtle tweaks on the raw files I get from my camera have been more than enough to convince me - you can read a little more on that in my previous post, [Why You Should Be Post-Processing Your Photos](https://slwelton.github.io/How-To-Edit-Photos-In-Lightroom/2020-07-02-Why-You-Should-Post-Process.markdown).
+Then, I decided to give Lightroom a shot, and I haven't looked back since. The images I've been able to produce with some subtle tweaks on the raw files I get from my camera have been more than enough to convince me - you can read a little more on that in my previous post, [Why You Should Be Post-Processing Your Photos](https://slwelton.github.io/Why-You-Should-Post-Process/).
 
 My personal philosophy is to take a lighter touch to photo editing. I aim to improve my photos and make them more accurately represent what my eye saw through the viewfinder when I first took the shot - not to over-process and completely change everything about the original.
 
