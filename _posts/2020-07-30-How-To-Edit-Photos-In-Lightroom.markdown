@@ -50,7 +50,7 @@ So, time to fix both of those things!
 
 Post-crop, my photo now looks like this:
 
-<img src="..img/After_Crop.jpg"/>
+<img src="../img/After_Crop.jpg"/>
 
 The top line of the falls no longer drifts down to the left, and the people along the top are no longer visible.
 
@@ -97,7 +97,7 @@ Now that I've adjusted the exposure, I want to cut down on some of the misty haz
 
 4\. Under Presence, click and drag the *Dehaze* adjustment slider. To increase the amount of dehazing, drag the slider to the right. To decrease the amount, drag the slider to the left. You can also enter a specific value in the *Dehaze* field, or click the *Dehaze* field and press the up or down arrows on your keyboard to increase or decrease the dehaze adjustment, respectively:
 
-<img_src="../img/After_Dehaze.jpg"/>
+<img src="../img/After_Dehaze.jpg"/>
 
 *Note: For my photo, I settled on an adjustment of +59.*
 
@@ -108,6 +108,7 @@ The Dehaze adjustment will also change the look of your histogram:
 The darker and black values are now much closer to the left side of the histogram, which only leaves the white and highlight values left to adjust. When I know I'm planning to Dehaze a photo, I try to do it before making too many adjustments to the photo's exposure, because of how Dehaze affects the histogram.
 
 5\. Under Tone, click and drag the *Highlights* adjustment slider. To increase the brightness of the photo's highlights, drag the slider to the right. To decrease the brightness, drag the slider to the left. You can also enter a specific value in the *Highlights* field, or click the *Highlights* field and press the up or down arrows on your keyboard to increase or decrease the dehaze adjustment, respectively.
+
 6\. Repeat Step 5, using the *Whites* adjustment slider.
 
 To keep the white and highlight adjustments feeling balanced with the rest of the photo, I made some small downward adjustments to my Blacks and Shadows, again, making adjustments using the sliders:
