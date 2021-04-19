@@ -1,3 +1,5 @@
+The following is the readme.md for the theme I use for my personal website. I've left it here for reference and to credit the creator. :) 
+
 Galada - Easy & Simple Theme for Personal Blog
 ======
 Galada is an easy and simple theme for Jekyll. Dark colors, give it a special exquisite look. A careful approach to design and features make it an ideal solution for a personal blog.
