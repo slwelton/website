@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: 149-312-2855_37v4_291.jpg
+image: ME-0007.jpg
 permalink: /about/
 ---
 
